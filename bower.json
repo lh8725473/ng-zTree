@@ -1,0 +1,24 @@
+{
+  "name": "ng-zTree",
+  "version": "0.0.1",
+  "homepage": "https://github.com/lh8725473/ng-zTree",
+  "authors": [
+    "lh8725473 <171213574@qq.com>"
+  ],
+  "description": "ng by zTree",
+  "main": "src/ng-zTree-directive.js",
+  "keywords": [
+    "ng-zTree"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ztree_v3": "~3.5.16"
+  }
+}
