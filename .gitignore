@@ -1,0 +1,12 @@
+build/
+bower_components/
+node_modules/
+.idea/
+.tmp/
+.project
+src/app/app.css
+src/admin/admin.css
+src/link-share/link-share.css
+production
+production.zip
+production.rar
